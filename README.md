@@ -1,6 +1,6 @@
 # Banking_System
 
-This program is a Bank Management Systems using C#. It stores and handles bank account details, user data, and banking transactions in files. 
+This program is a Bank Management Systems using C#. It stores and handles bank account details, user data, and banking transactions in files. The complete program is available for download from 'Banking_System.zip' folder.
 
 The purpose of this project is to demonstrate competence in the following skills:
 Ensure firm understanding of the .Net framework, C# basic and syntax
